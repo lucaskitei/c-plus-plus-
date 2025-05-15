@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1742939680 source:d:\trabalho pe aula 3\12-loja\main.cpp
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<locale.h>
+	<iomanip>
+

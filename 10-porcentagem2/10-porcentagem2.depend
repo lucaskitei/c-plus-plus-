@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1742923352 source:d:\trabalho pe aula 3\10-porcentagem2\main.cpp
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<locale.h>
+	<iomanip>
+
