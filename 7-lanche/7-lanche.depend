@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1744583145 source:c:\trab6\7-lanche\main.cpp
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<locale.h>
+	<iomanip>
+	<cctype>
+

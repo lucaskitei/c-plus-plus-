@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1744134248 source:e:\trabalho6\8-peso\main.cpp
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<locale.h>
+	<iomanip>
+	<cctype>
+

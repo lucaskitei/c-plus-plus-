@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1744241388 source:c:\trab6\13-mediapares\main.cpp
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<locale.h>
+	<iomanip>
+	<cctype>
+

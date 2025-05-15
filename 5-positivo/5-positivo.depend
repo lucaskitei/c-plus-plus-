@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1744130328 source:e:\trab6\5-positivo\main.cpp
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+	<iostream>
+	<cstring>
+	<locale.h>
+	<iomanip>
+	<cctype>
+
